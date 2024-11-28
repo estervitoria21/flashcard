@@ -1,5 +1,5 @@
 criaCartao(
-    'Programação 2.0',
+    'Programação',
     'O que é phyton?',
     'O phyton é uma linguagem de progamação'
 )
